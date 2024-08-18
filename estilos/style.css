@@ -15,5 +15,5 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
-    border:  solid rgb(107, 107, 235);
+    border: 30px solid rgb(107, 107, 235);
 }
